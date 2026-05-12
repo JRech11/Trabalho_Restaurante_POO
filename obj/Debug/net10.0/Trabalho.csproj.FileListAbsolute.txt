@@ -1,0 +1,15 @@
+C:\Users\joaoc\OneDrive\Documentos\Trabalho - POO\Trabalho\bin\Debug\net10.0\Trabalho.exe
+C:\Users\joaoc\OneDrive\Documentos\Trabalho - POO\Trabalho\bin\Debug\net10.0\Trabalho.deps.json
+C:\Users\joaoc\OneDrive\Documentos\Trabalho - POO\Trabalho\bin\Debug\net10.0\Trabalho.runtimeconfig.json
+C:\Users\joaoc\OneDrive\Documentos\Trabalho - POO\Trabalho\bin\Debug\net10.0\Trabalho.dll
+C:\Users\joaoc\OneDrive\Documentos\Trabalho - POO\Trabalho\bin\Debug\net10.0\Trabalho.pdb
+C:\Users\joaoc\OneDrive\Documentos\Trabalho - POO\Trabalho\obj\Debug\net10.0\Trabalho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoc\OneDrive\Documentos\Trabalho - POO\Trabalho\obj\Debug\net10.0\Trabalho.AssemblyInfoInputs.cache
+C:\Users\joaoc\OneDrive\Documentos\Trabalho - POO\Trabalho\obj\Debug\net10.0\Trabalho.AssemblyInfo.cs
+C:\Users\joaoc\OneDrive\Documentos\Trabalho - POO\Trabalho\obj\Debug\net10.0\Trabalho.csproj.CoreCompileInputs.cache
+C:\Users\joaoc\OneDrive\Documentos\Trabalho - POO\Trabalho\obj\Debug\net10.0\Trabalho.dll
+C:\Users\joaoc\OneDrive\Documentos\Trabalho - POO\Trabalho\obj\Debug\net10.0\refint\Trabalho.dll
+C:\Users\joaoc\OneDrive\Documentos\Trabalho - POO\Trabalho\obj\Debug\net10.0\Trabalho.pdb
+C:\Users\joaoc\OneDrive\Documentos\Trabalho - POO\Trabalho\obj\Debug\net10.0\Trabalho.genruntimeconfig.cache
+C:\Users\joaoc\OneDrive\Documentos\Trabalho - POO\Trabalho\obj\Debug\net10.0\ref\Trabalho.dll
+C:\Users\joaoc\OneDrive\Documentos\Trabalho - POO\Trabalho\obj\Debug\net10.0\Trabalho.sourcelink.json
